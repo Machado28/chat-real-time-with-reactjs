@@ -2,7 +2,8 @@
 
 -Registering users
 -Logging in/out
--Viewing a single post
--Creating a new post
--Listing posts
+- send message
+-receive message
+-receive files
+-upload files
 # chat-real-time-with-reactjs
